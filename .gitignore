@@ -1,0 +1,19 @@
+## Module Specific
+project-client-android/lib/
+project-client-web/war/
+
+## IntelliJ Specific
+.idea/
+*.ipr
+*.iws
+*.iml
+
+## Machine Specific
+local.properties
+
+## Gradle Specific
+.gradle/
+build/
+
+## OS Specific
+.DS_Store

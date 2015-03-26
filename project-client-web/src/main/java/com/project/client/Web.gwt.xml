@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="web">
+
+    <inherits name='com.badlogic.gdx.backends.gdx_backends_gwt' />
+
+    <inherits name='com.project.Client'/>
+
+    <entry-point class='com.project.client.web.Main'/>
+
+    <set-configuration-property name="gdx.assetpath" value="../project-client-android/src/main/assets"/>
+
+</module>

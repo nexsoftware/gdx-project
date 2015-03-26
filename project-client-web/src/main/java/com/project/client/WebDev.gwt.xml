@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="web">
+
+    <inherits name='com.project.client.Web'/>
+
+    <collapse-all-properties/>
+
+    <add-linker name="xsiframe"/>
+    <set-configuration-property name="devModeRedirectEnabled" value="true"/>
+    <set-configuration-property name='xsiframe.failIfScriptTag' value='FALSE'/>
+
+</module>

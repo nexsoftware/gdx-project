@@ -1,0 +1,12 @@
+apply plugin: 'java'
+
+sourceCompatibility = 1.7
+targetCompatibility = 1.7
+
+dependencies {
+
+    compile project(":project")
+
+    compile "com.badlogicgames.gdx:gdx:$GDX_VERSION"
+
+}

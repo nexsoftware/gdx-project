@@ -1,0 +1,16 @@
+rootProject.name = 'Project'
+
+include 'project'
+
+include 'project-client'
+
+include 'project-client-android'
+
+include 'project-client-desktop'
+
+include 'project-client-robovm'
+
+include 'project-client-web'
+
+include 'project-server'
+
